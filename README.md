@@ -1,4 +1,4 @@
-# DSA
+# DSA 
 In this, uploaded all about dsa. 
 
 Welcome to my **Data Structures and Algorithms** repository!  
